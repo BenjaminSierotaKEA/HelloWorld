@@ -19,7 +19,7 @@ public enum EnumNotes {
         this.timeUntilWeekend = timeUntilWeekend;
     }
 
-    //we then assign each entry a value for each variable. (so the first one in the paenthesis
+    //we then assign each entry a value for each variable. (so the first one in the parenthesis
     // is dayEnjoymentIndex, the second is timeUntilWeekend, and so on if we had more variables
     //enums arnt meant to be changed at any point. they are meant as a way to get constant
     //data about a set of entries.
